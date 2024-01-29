@@ -1,6 +1,6 @@
 # Non-Constructible Change
 
-Esta función encuentra y devuelve el cambio mínimo que no se puede crear con el conjunto de monedas dado. Ordena las monedas, luego itera sobre ellas acumulando el valor en currentMinChange hasta que encuentra una moneda que hace que no sea posible crear la siguiente cantidad.
+Esta función encuentra y devuelve el cambio mínimo que no se puede crear con el conjunto de monedas dado, luego itera sobre ellas acumulando el valor en currentMinChange hasta que encuentra una moneda que hace que no sea posible crear la siguiente cantidad.
 
 Workflow:
 
